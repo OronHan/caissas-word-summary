@@ -19,6 +19,7 @@ All models run on pre-processed historical data and player-specific inputs to pr
 - Game outcomes (win/draw/loss probabilities)
 - Expected values vs Elo-based expectations
 - Player trajectories across full tournaments (via Monte Carlo simulation)
+<img src="WRC24.jpeg" width="500"/>
 
 ---
 
@@ -33,7 +34,9 @@ All models run on pre-processed historical data and player-specific inputs to pr
 ## 📊 Sample Output & Insights
 
 - **Tata Steel 2025**: Predicted expectations aligned with actual performance for most players, validating model robustness even under extreme variance.
+- ![Tata Steel 2025](Tata_Steel_25.png)
 - **EV vs Elo**: Our model consistently offers more realistic expectations than standard rating-based approaches.
+- ![EV vs Elo](EloVsEV.png)
 - **Strategic Reports**: Used by Grandmasters to evaluate opponent tendencies and tailor prep.
 
 ---
