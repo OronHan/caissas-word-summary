@@ -1,6 +1,6 @@
 # Caissa's Word – Chess Prediction System
 
-**Role:** Co-Founder, Data Scientist
+**Role:** Co-Founder, Data Scientist  
 **Duration:** 2023 – Present  
 
 ## 🧠 Overview
